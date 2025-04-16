@@ -1,0 +1,23 @@
+d745b46 HEAD@{0}: pull lihua-repository master: Merge made by the 'ort' strategy.
+e1d633a HEAD@{1}: checkout: moving from dev to master
+7646571 HEAD@{2}: checkout: moving from master to dev
+e1d633a HEAD@{3}: checkout: moving from dev to master
+7646571 HEAD@{4}: checkout: moving from master to dev
+e1d633a HEAD@{5}: commit: 附加版
+35cc6c8 HEAD@{6}: commit: app入口文件 最新版本
+7646571 HEAD@{7}: checkout: moving from dev to master
+7646571 HEAD@{8}: checkout: moving from master to dev
+7646571 HEAD@{9}: reset: moving to 7646571
+964ee6c HEAD@{10}: reset: moving to 964ee6c
+7646571 HEAD@{11}: commit: app 改进版
+964ee6c HEAD@{12}: commit: app 入口文件
+642049f HEAD@{13}: pull lihua-repository master: Fast-forward
+293d3f5 HEAD@{14}: commit (merge): new_master01
+5e99ff8 HEAD@{15}: checkout: moving from develop to master
+ce0bf74 HEAD@{16}: commit: dev_demo01
+0869fb5 HEAD@{17}: checkout: moving from master to develop
+5e99ff8 HEAD@{18}: commit: master_demo03
+d4ced7d HEAD@{19}: commit: master_demo02
+0869fb5 HEAD@{20}: checkout: moving from develop to master
+0869fb5 HEAD@{21}: checkout: moving from master to develop
+0869fb5 HEAD@{22}: commit (initial): master_demo01
